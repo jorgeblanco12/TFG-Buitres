@@ -6,4 +6,3 @@ matplotlib
 seaborn
 statsmodels
 jupyter
-joblib
