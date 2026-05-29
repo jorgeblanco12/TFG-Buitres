@@ -51,7 +51,7 @@ Los scripts leen directamente estos archivos para realizar el análisis explorat
 Las dependencias pueden instalarse mediante:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Autor
